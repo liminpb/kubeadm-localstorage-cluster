@@ -1,4 +1,5 @@
-**This KB gives you and idea about creating a kubeadm cluster in your VPS farm. This will cover how to create a local PV in your host nodes and proceed with PVC creation. For a better understanding we will create a worpdress application also.**
+**This KB gives you an idea about creating a kubeadm cluster in your VPS farm. 
+This will cover how to create a local staorage PV in your host nodes and proceed with PVC creation. For a better understanding we will create a worpdress application as demo.**
 
 
 
