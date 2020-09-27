@@ -17,13 +17,12 @@ Goals
 One master node
 one worker node
 
-Install dependecies on all three servers. 
+Install dependecies on all two servers. 
 ==========================================
 
-Please verify the "docker-kube-install.sh". You can use the shell script in two ways. 
+Please verify the "depndency.sh". You can use the shell script in two ways. 
 
-1. Use as a user-data (Bootstrap script) duing AWS instance launch.
-2. Create a file after install and copy content. Go ahead with follwoing commands. 
+     wget https://github.com/liminpb/kubeadm-localstorage-cluster/blob/master/depndency.sh
      chmod 777 docker-kube-install.sh
      sh docker-kube-install.sh
 
