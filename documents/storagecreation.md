@@ -1,4 +1,5 @@
-**Local Persistent Volumes – A Step-by-Step procedure**
+Local Persistent Volumes – A Step-by-Step procedure
+====================================================
 
 "Local volumes" are similar to hostPath volumes, but they allow to pin-point PODs to a specific node, and thus making sure that a restarting POD always will find the data storage in the state it had left it before the reboot. They also make sure that other restrictions are met before the used persistent volume claim is bound to a volume.
 
