@@ -17,7 +17,7 @@ Goals
 One master node
 one worker node
 
-Install dependecies on all two servers. 
+Install dependecies on both servers. 
 ==========================================
 
 Please verify the "depndency.sh". You can use the shell script in two ways. 
