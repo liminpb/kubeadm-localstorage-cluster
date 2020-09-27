@@ -46,7 +46,8 @@ This command will give you a uniq Join command we need to apply in our worker no
 
 **3.  Apply Calco CNI**
 
-kubectl apply -f https://docs.projectcalico.org/v3.14/manifests/calico.yaml
+     kubectl apply -f https://docs.projectcalico.org/v3.14/manifests/calico.yaml
+     
 
 
 
